@@ -60,7 +60,7 @@ namespace RunGroopWebApp.Data
                         },
                         new Club()
                         {
-                            Title = "Running Club 3",
+                            Title = "Running Club 4",
                             Image = "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/running.jpg?quality=82&strip=1&resize=640%2C360",
                             Description = "This is the description of the first club",
                             ClubCategory = ClubCategory.City,
